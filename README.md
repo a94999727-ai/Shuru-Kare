@@ -1,2 +1,2 @@
 # Shuru-Kare
-This is a basic learning
+This is a basic learning.
